@@ -1,0 +1,1 @@
+1) The git remote command will list out the remote server for which you cloned the current repository from. This server allows teh connection to collaborate with others on a respository of code.
